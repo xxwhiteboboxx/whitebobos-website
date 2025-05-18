@@ -146,7 +146,7 @@
 <body>
   <div id="loader">
     <div class="neon-ring"></div>
-    <div class="loader-text">Loading your awesome page...</div>
+    <div class="loader-text">page Loading...</div>
     <button class="skip-button" onclick="skipLoading()">Skip</button>
   </div>
 
